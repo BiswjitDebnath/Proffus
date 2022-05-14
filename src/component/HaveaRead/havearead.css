@@ -1,0 +1,42 @@
+.havearead {
+    text-align: center;
+    background: #f6fcff;
+    padding-bottom: 15vh;
+}
+
+.havearead .heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    font-weight: 700;
+    font-stretch: wider;
+    padding-bottom: 15vh;
+}
+
+.read-card{
+    border: 1px solid rgba(0,0,0,0.2);
+    background: white;
+    border-radius: 10px;
+    height: fit-content;
+    /* background: red; */
+    width: 73%;
+    margin: auto;
+    margin-bottom: 5vh;
+        margin-top: 3vh;
+    text-align: left;
+    padding: 10px;
+}
+
+.read-card .title{
+    font-weight: 700;
+    padding-bottom: 1px;
+}
+
+.r-btn{
+    color: blue;
+    cursor: pointer;
+}
+
+.readdesign{
+    display: flex;
+        flex-direction: column;
+}

@@ -1,0 +1,47 @@
+.topic-card {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    height: fit-content;
+    width: 73%;
+    margin: auto;
+    margin-bottom: 5vh;
+    text-align: left;
+        margin-top: 3vh;
+    display: flex;
+    /* background-repeat: no-repeat;
+        background-size: 40% 100%;
+    background-position-x: 100%; */
+}
+
+.topics {
+    text-align: center;
+    background: #f6fcff;
+    padding-bottom: 15vh;
+}
+
+.topics .heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    font-weight: 700;
+    font-stretch: wider;
+    padding-bottom: 15vh;
+}
+
+.topic-left .heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: 700;
+    font-stretch: wider;
+    padding-bottom: 15vh;
+}
+
+.topic-left{
+    width: 50%;
+    margin: 10px;
+}
+.topic-right{
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position: 2px;
+    background-size: cover;
+}

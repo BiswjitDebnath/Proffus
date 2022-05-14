@@ -1,0 +1,14 @@
+.logo{
+    background: url('../../assets/logo.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 8vh;
+    width: 13vw;
+}
+
+li{
+    font-size: larger;
+    font-weight: 500;
+    color: blue;
+}

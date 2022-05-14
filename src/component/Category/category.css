@@ -1,0 +1,29 @@
+.category {
+    background: #f6fcff;
+    padding-left: 3vw;
+    padding-bottom: 15vh;
+}
+
+.showcat {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    min-height: 15vh;
+    min-width: 25vh;
+    display: flex;
+    align-items: center;
+    margin-top: 5vh;
+    margin-right: 7vw;
+}
+
+.image{
+    margin-top: 5px;
+    height: 7vh;
+    width: 10vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

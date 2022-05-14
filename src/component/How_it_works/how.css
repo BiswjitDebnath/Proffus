@@ -1,0 +1,32 @@
+.photo{
+    height: 50vh;
+    width: 100vw;
+    background: url(../../assets/firsbg.png);
+    background-color: #f6fcff;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    background-position: center;
+    margin-bottom: 10vh;
+}
+
+.how{
+    background: #f6fcff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    font-stretch: wider;
+    padding-bottom: 15vh;
+}
+
+.how p{
+    margin-top: 3vh;
+}
+
+p{
+    font-size: medium;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}

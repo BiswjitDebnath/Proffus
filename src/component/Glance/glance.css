@@ -1,0 +1,15 @@
+.glance {
+    background: #f6fcff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    font-stretch: wider;
+    padding-bottom: 15vh;
+}
+.glance iframe{
+    margin-top: 3vh;
+}
+iframe{
+    border-radius: 10px;
+}
